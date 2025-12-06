@@ -54,9 +54,8 @@
 ## **👨‍👩‍👧‍👦 Team CUDEE**  
 - 🎯 **Parardha Dhar**  
 - 🎯 **Aaryan Maurya**  
-- 🎯 **Varuni Sood**  
 - 🎯 **Arpan Aggarwal**  
-- 🎯 **Haardik Paheljani**  
+    
 
 🔥 Built with passion to make the web safer!  
 
